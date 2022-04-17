@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1648562994 source:c:\users\mao-m\documents\projetgraphe\src\sommet.cpp
-	"sommet.h"
-
-1648562867 c:\users\mao-m\documents\projetgraphe\include\sommet.h
-	<string>
-
